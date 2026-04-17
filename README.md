@@ -134,8 +134,8 @@ Each `(x, y)` position represents where PyAutoGUI will move and click the mouse 
 
 ```python
 FILEZILLA_OPEN_SITE_MANAGER_POS = (120, 45)   # Site Manager button
-FILEZILLA_SITE_ENTRY_POS        = (180, 220)  # Site name in Site Manager
-FILEZILLA_CONNECT_BUTTON_POS    = (380, 520)  # "Connect" button
+FILEZILLA_SITE_ENTRY_POS = (180, 220)  # Site name in Site Manager
+FILEZILLA_CONNECT_BUTTON_POS = (380, 520)  # "Connect" button
 
 REMOTE_DIR_CLICK_1_POS = (850, 180)  # First remote folder
 REMOTE_DIR_CLICK_2_POS = (850, 210)  # Second remote folder
@@ -144,8 +144,8 @@ REMOTE_DIR_CLICK_3_POS = (850, 235)  # Third remote folder
 FILE_POSITION_RUN_1 = (250, 320)  # File position on the 1st daily run
 FILE_POSITION_RUN_2 = (250, 345)  # File position on the 2nd daily run
 
-UPLOAD_OPTION_POS1    = (310, 390)  # "Upload" option in the context menu
-UPLOAD_OPTION_POS2    = (310, 350)  # "Upload" option in the context menu
+UPLOAD_OPTION_POS_1 = (310, 390)  # "Upload" option in the context menu
+UPLOAD_OPTION_POS_2 = (310, 350)  # "Upload" option in the context menu
 OVERWRITE_CONFIRM_POS = (600, 420)  # Overwrite confirmation button
 ```
 
