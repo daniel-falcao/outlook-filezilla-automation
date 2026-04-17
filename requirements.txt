@@ -1,0 +1,6 @@
+# requirements.txt
+# Install all dependencies with: pip install -r requirements.txt
+# Note: pywin32 requires Windows and a locally installed Microsoft Outlook.
+
+pywin32>=306          # Outlook COM automation (Windows only)
+pyautogui>=0.9.54     # Mouse and keyboard GUI automation
